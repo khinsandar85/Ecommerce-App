@@ -1,5 +1,5 @@
 import React from 'react';
-import backgroundImg from '../image/bb.jpg';
+import backgroundImg from '../image/background.jpg';
 import { Products } from './Products';
 
 export const Home = () => {
